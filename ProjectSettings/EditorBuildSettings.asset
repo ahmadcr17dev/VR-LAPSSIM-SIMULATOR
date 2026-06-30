@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Hospital - modular building, props and characters/scenes/hospital.unity
+    guid: 5072351b41c35cb488162ce1c1a07f5f
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 978b8444e7eba4d48aa6efee2d1ec0fb, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: e02c05330fda2ce4e8a2099d575ba940, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 63cd561214ed3b44da262707aaa40741, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 52dc54362875b2d4a90cfad37425ba98, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f28519c14e11013409aee8c78ca1fcbd, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 6646e54c47be5e24c81eb73ae5f9bc4c, type: 2}
+  m_UseUCBPForAssetBundles: 0
