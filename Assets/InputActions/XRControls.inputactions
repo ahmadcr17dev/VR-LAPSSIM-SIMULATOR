@@ -1,0 +1,34 @@
+{
+    "name": "XRControls",
+    "maps": [
+        {
+            "name": "UIControls",
+            "id": "57c60306-4cd5-41fc-b657-13ec0a1f14db",
+            "actions": [
+                {
+                    "name": "HideInstructions",
+                    "type": "Button",
+                    "id": "3d42a534-2abc-4f77-a996-e14c85f9ff8f",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "dc3e7209-d74c-43e7-8912-a2800115810b",
+                    "path": "<XRController>{LeftHand}/isTracked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HideInstructions",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
